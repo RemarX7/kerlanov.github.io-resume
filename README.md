@@ -2,7 +2,8 @@
 
 Это репозиторий моего персонального сайта-резюме, созданного с использованием HTML и CSS. Сайт размещён с помощью GitHub Pages.
 
-🔗 **Ссылка на сайт:** [https://kerlanov.github.io-resume](https://kerlanov.github.io-resume)  
+🔗 **Ссылка на сайт:** [https://kerlanov.github.io-resume](https://remarx7.github.io/kerlanov_resume/)  
+🔗 **Ссылка на портфолио в gitgub:** [https://github.com/RemarX7/portfolio_qa_kerlanov](https://github.com/RemarX7/portfolio_qa_kerlanov)
 
 ## 📋 О проекте
 
